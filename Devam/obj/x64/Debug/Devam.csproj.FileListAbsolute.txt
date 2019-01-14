@@ -1,0 +1,9 @@
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\bin\x64\Debug\Devam.exe.config
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\bin\x64\Debug\Devam.exe
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\bin\x64\Debug\Devam.pdb
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\obj\x64\Debug\Devam.Form1.resources
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\obj\x64\Debug\Devam.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\obj\x64\Debug\Devam.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\obj\x64\Debug\Devam.exe
+c:\users\harun\documents\visual studio 2012\Projects\Devam\Devam\obj\x64\Debug\Devam.pdb
+C:\Users\Harun\documents\visual studio 2012\Projects\Devam\Devam\obj\x64\Debug\Devam.csprojResolveAssemblyReference.cache
